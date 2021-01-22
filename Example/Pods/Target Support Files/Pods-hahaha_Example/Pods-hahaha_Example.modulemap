@@ -1,0 +1,6 @@
+framework module Pods_hahaha_Example {
+  umbrella header "Pods-hahaha_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

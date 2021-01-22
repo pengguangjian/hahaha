@@ -1,0 +1,16 @@
+PODS:
+  - hahaha (0.1.0)
+
+DEPENDENCIES:
+  - hahaha (from `../`)
+
+EXTERNAL SOURCES:
+  hahaha:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hahaha: 587af2badf1f6cbbf13acdd41a603a7bc15e2ef4
+
+PODFILE CHECKSUM: 1a01ebcec805091938df0500fb68af68d08e325b
+
+COCOAPODS: 1.9.3
