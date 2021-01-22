@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'hahaha_Example' do
+  pod 'hahaha', :path => '../'
+
+  target 'hahaha_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
